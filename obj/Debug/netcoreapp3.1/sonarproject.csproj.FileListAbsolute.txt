@@ -1,0 +1,17 @@
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/sonarproject.deps.json
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/sonarproject.runtimeconfig.json
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/sonarproject.runtimeconfig.dev.json
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/sonarproject.dll
+/Users/nancy/sonarproject/bin/Debug/netcoreapp3.1/sonarproject.pdb
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.csprojAssemblyReference.cache
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.MvcApplicationPartsAssemblyInfo.cache
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.AssemblyInfoInputs.cache
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.AssemblyInfo.cs
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.RazorTargetAssemblyInfo.cache
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/staticwebassets/sonarproject.StaticWebAssets.Manifest.cache
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/staticwebassets/sonarproject.StaticWebAssets.xml
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.dll
+/Users/nancy/sonarproject/obj/Debug/netcoreapp3.1/sonarproject.pdb
